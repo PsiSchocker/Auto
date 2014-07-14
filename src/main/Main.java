@@ -56,7 +56,7 @@ public class Main {
 //        
 //        System.out.println("Länge vom Opel: "+opelAstra.getLÄNGE());
 //        
-        eyka.bewegen();
+//        eyka.bewegen();
     }
     
 }
